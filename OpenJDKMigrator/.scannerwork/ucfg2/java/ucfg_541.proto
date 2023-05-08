@@ -1,0 +1,22 @@
+
+borg.apache.maven.artifact.versioning.ComparableVersion$BigIntegerItem#toString()Ljava/lang/String;Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaõ õ("1*•
+1Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaù ù(˛
+˚
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaù ù(
+%0java.math.BigInteger"__id*T*RG
+Eorg.apache.maven.artifact.versioning.ComparableVersion$BigIntegerItem"
+value˚¯
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaù ù(#
+%1java.lang.String"1java.math.BigInteger#toString()Ljava/lang/String;*
+
+%0java.math.BigInteger2
+toString()"ù
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaù ù($
+
+%1java.lang.StringBIG
+Eorg.apache.maven.artifact.versioning.ComparableVersion$BigIntegerItem

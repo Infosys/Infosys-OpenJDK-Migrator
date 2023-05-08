@@ -1,0 +1,51 @@
+
+Rorg.apache.maven.artifact.versioning.ComparableVersion#equals(Ljava/lang/Object;)ZÄ
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÜ Ü("paramAnnotations*‚
+2Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaà5 à(>Ô
+Ï
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaà5 à(>
+%1java.lang.String"__id*I*G8
+6org.apache.maven.artifact.versioning.ComparableVersion"
+	canonicalÃ
+…
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaàG à(j
+%2java.lang.String"__id*&*$
+
+ojava.lang.Object"
+	canonicalìê
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaà5 à(l
+%3boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+
+%1java.lang.String*
+
+%2java.lang.String2equals(Ljava/lang/Object;)*
+1*ü
+paramAnnotationsÄ
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÜ Ü(%…
+∆
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÖ Ö(
+%0"
+__annotate*
+java.lang.Override*
+
+ojava.lang.Object≥
+∞
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÜ" Ü(#
+ojava.lang.Object"__annotation*
+
+%0*
+2
+1*î
+1Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaà à(m"ã
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaà à(m
+"":
+ojava.lang.ObjectB:8
+6org.apache.maven.artifact.versioning.ComparableVersion

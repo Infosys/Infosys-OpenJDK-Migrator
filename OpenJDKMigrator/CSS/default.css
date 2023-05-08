@@ -1,0 +1,59 @@
+
+ 
+Button {
+    
+    border-radius: 12px; 
+    border-width: 10;
+}
+ 
+
+
+
+ .radiosTechnology{
+ 
+   left:20px;
+ 
+ }
+ 
+ btnAnalyze{
+ 
+ font-size:30px;
+ }
+ 
+ 
+ .Label10px{
+ 
+  font:Arial 10px;
+  font-color: Black;
+  font-weight: bold;
+  
+ }
+ 
+ .Label12px{
+ 
+  font:Verdana 12px;
+  font-color: Black;
+  
+ }
+ 
+ .Label22px{
+ 
+ font:Arial 22px;
+  font-color: Black;
+ }
+ 
+ 
+.Label8px{
+font:Arial 8px;
+font-color: Black;
+font-weight: bold;
+
+}
+ JLabel{
+ 
+ font:Arial 22px; 
+ 
+ }
+ 
+ 
+ 

@@ -1,0 +1,96 @@
+
+\org.apache.maven.artifact.versioning.ComparableVersion$ListItem#toString()Ljava/lang/String;Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÁ Á("10*Í
+2Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÍ Í(Ÿ
+÷
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÍ Í(C
+item;org.apache.maven.artifact.versioning.ComparableVersion$Item"__id*
+""*
+8
+1*à
+3Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.java (˙˜
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.java (%
+%7java.lang.StringBuilder"Kjava.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;*#
+!
+bufferjava.lang.StringBuilder*E
+C
+item;org.apache.maven.artifact.versioning.ComparableVersion$Item2append(Ljava/lang/Object;)*
+2*≠
+4Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÓ Ó(Müú
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÓ Ó(M
+%6java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*#
+!
+bufferjava.lang.StringBuilder*
+
+
+%3char2	append(C)*
+3*¥
+5Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÓH Ó(K¶
+£
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÓH Ó(K
+
+%3char"__id*
+
+
+%5char*
+4*¥
+6Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÓB Ó(E¶
+£
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÓB Ó(E
+
+%3char"__id*
+
+
+%4char*
+4*ˇ
+8Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÏ Ï(ÎË
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÏ Ï($	
+%2int")java.lang.AbstractStringBuilder#length()I*#
+!
+bufferjava.lang.StringBuilder2length()*	
+3
+5
+6*Û
+10Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÈ# È(6æª
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÈ' È(4
+%0java.lang.StringBuilder"java.lang.StringBuilder–
+Õ
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÈ# È(6
+%1"!java.lang.StringBuilder#<init>()V*
+
+%0java.lang.StringBuilder–
+Õ
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÈ È(7!
+bufferjava.lang.StringBuilder"__id*
+
+%0java.lang.StringBuilder*
+2*Æ
+1Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÚ Ú(ÖÇ
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÚ Ú($
+%8java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*#
+!
+bufferjava.lang.StringBuilder2
+toString()"ù
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÚ Ú(%
+
+%8java.lang.StringBCA
+?org.apache.maven.artifact.versioning.ComparableVersion$ListItem

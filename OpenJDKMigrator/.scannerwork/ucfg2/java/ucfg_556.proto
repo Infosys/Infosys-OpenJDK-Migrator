@@ -1,0 +1,30 @@
+
+oorg.apache.maven.artifact.versioning.ComparableVersion#stripLeadingZeroes(Ljava/lang/String;)Ljava/lang/String;€
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaê ê(,"3*“
+2€
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaï ï("Š
+€
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaï ï(
+0*©
+3€
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaì ì((µ
+²
+€
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaì ì(@
+strippedBufjava.lang.String"__id*
+""àÝ
+€
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaí í("
+%0boolean"java.lang.String#isEmpty()Z*!
+
+strippedBufjava.lang.String2	isEmpty()*
+2
+1*¯
+1€
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javañ ñ("¦
+€
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javañ ñ(!
+
+strippedBufjava.lang.String:
+bufjava.lang.StringB:"8
+6org.apache.maven.artifact.versioning.ComparableVersion

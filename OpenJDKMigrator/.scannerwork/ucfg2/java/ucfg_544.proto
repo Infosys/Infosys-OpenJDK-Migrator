@@ -1,0 +1,35 @@
+
+Korg.apache.maven.artifact.versioning.ComparableVersion$StringItem#isNull()Z€
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.java× ×("1*›
+
+1€
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÙ Ù((ö
+ó
+€
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÙ* Ù(/
+%0java.lang.String"__id*P*NC
+Aorg.apache.maven.artifact.versioning.ComparableVersion$StringItem"
+valueÄ
+Á
+€
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÙ Ù(1
+%1java.lang.String"{org.apache.maven.artifact.versioning.ComparableVersion$StringItem#comparableQualifier(Ljava/lang/String;)Ljava/lang/String;*"
+	!Unknown!*
+
+%0java.lang.String¬
+©
+€
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÙ= Ù(R
+%2java.lang.String"__id*
+""•’
+€
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÙ Ù(T	
+%3int"/java.lang.String#compareTo(Ljava/lang/String;)I*
+
+%1java.lang.String*
+
+%2java.lang.String2compareTo(Ljava/lang/String;)"‹
+€
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÙ Ù(\
+""BEC
+Aorg.apache.maven.artifact.versioning.ComparableVersion$StringItem

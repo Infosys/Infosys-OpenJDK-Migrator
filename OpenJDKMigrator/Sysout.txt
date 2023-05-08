@@ -1,0 +1,33 @@
+Before the call
+After the call
+Doing loading in background step 1
+Doing loading in background step 2
+com.google.guava
+guava
+19.0
+org.apache.commons
+commons-lang3
+3.1
+org.springframework
+spring-context
+3.1.2.RELEASE
+org.apache.struts
+struts2-core
+2.3.1.2
+com.mydomain
+ejb-service
+1.0
+org.spockframework
+spock-core
+0.7-groovy-2.0
+junit
+junit
+4.11
+Doing loading in background step 1
+Doing loading in background step 2
+Doing loading in background step 1
+Doing loading in background step 2
+Doing loading in background step 1
+Doing loading in background step 2
+Doing loading in background step 1
+Doing loading in background step 2

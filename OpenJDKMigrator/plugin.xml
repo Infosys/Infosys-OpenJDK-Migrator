@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+
+   <extension
+         id="application"
+         point="org.eclipse.core.runtime.applications">
+      <application>
+         <run
+               class="com.infy.openjdk.ui.Application">
+         </run>
+         	<property
+               name="applicationCSS"
+               value="platform:/plugin/OpenJDKMigrator/CSS/migation.png">
+         </property>
+      </application>
+   </extension>
+   <extension
+         point="org.eclipse.ui.perspectives">
+      <perspective
+            class="com.infy.openjdk.ui.Perspective"
+            name="Perspective"
+            id="OpenJDKMigrator.perspective">
+      </perspective>
+   </extension>
+   
+   
+    
+   
+   
+   
+   <extension
+         point="org.eclipse.ui.views">
+      <view
+            class="com.infy.openjdk.ui.View"
+            name="OpenJDKMigrator"
+            id="OpenJDKMigrator.view"
+            icon="icons/alt_window_16.gif">
+            
+            
+      </view>
+   </extension>
+   
+ 
+   <extension
+         point="org.eclipse.ui.perspectiveExtensions">
+      <perspectiveExtension
+            targetID="*">
+         <view
+               id="OpenJDKMigrator.view"
+               minimized="false"
+               relationship="left"
+               standalone="true"
+               relative="org.eclipse.ui.editorss">
+         </view>
+      </perspectiveExtension>
+   </extension>
+   <!--<extension
+         point="org.eclipse.ui.menus">
+      <menuContribution
+            locationURI="menu:org.eclipse.ui.main.menu">
+        
+      </menuContribution>
+   </extension>-->
+   <extension
+         id="product"
+         point="org.eclipse.core.runtime.products">
+      <product
+            application="OpenJDKMigrator.application"
+            name="OpenJDKMigrator">
+         <property
+               name="appName"
+               value="OpenJDKMigrator">
+         </property>
+         <property
+               name="applicationCSS"
+               value="platform:/plugin/OpenJDKMigrator/CSS/default.css">
+         </property>
+      </product>
+   </extension>
+   
+   
+	
+   
+   
+   
+<!--<extension
+         point="org.eclipse.ui.menus">
+      <menuContribution
+            locationURI="toolbar:org.eclipse.ui.main.toolbar">
+         <toolbar
+               id="OpenJDKMigrator.view">
+            <command
+                  commandId="OpenJDKMigrator.open"
+                  icon="icons/JDKTool.png"
+                  label="OpenJDKMigratorNew"
+                  visible="false" 
+                  toolbarPath="com.infy.openjdk.ui.View"
+                  enablesFor="1"  
+                  style="push">
+                  
+            </command>
+         </toolbar>
+      </menuContribution>
+        </extension>--> 
+         
+            <extension point="org.eclipse.ui.menus">
+      <menuContribution
+            locationURI="toolbar:org.eclipse.ui.main.toolbar">
+         <toolbar
+               id="OpenJDKMigrator.view">
+            <command
+                  commandId="OpenJDKMigrator.open"
+                  icon="icons/alt_window_16.gif"
+                  label="OpenJDKMigratorNew"
+                  style="push">
+                  
+            </command>
+         </toolbar>
+      </menuContribution>
+         </extension>
+         
+    <extension
+          id="OpenJDKMigrator.open"
+          point="org.eclipse.ui.handlers">
+      <handler
+      class="com.infy.openjdk.ui.IHandlerImpl"
+                      
+            commandId="OpenJDKMigrator.open">
+      </handler>
+    </extension>
+    <extension
+          point="org.eclipse.e4.ui.css.swt.theme">
+    </extension>
+ 
+    
+
+   
+  
+	
+</plugin>

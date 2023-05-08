@@ -1,0 +1,48 @@
+
+{org.apache.maven.artifact.versioning.ComparableVersion#compareTo(Lorg/apache/maven/artifact/versioning/ComparableVersion;)IÄ
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaı ı("paramAnnotations*Ë
+paramAnnotationsÄ
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaı ı(/Ô
+Ï
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaÙ Ù(
+%3"
+__annotate*
+java.lang.Override*=
+;
+o6org.apache.maven.artifact.versioning.ComparableVersionŸ
+÷
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.javaı, ı(-;
+o6org.apache.maven.artifact.versioning.ComparableVersion"__annotation*
+
+%3*
+1*Õ
+
+1Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.java˜ ˜(ö
+ó
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.java˜ ˜(E
+%0?org.apache.maven.artifact.versioning.ComparableVersion$ListItem"__id*E*C8
+6org.apache.maven.artifact.versioning.ComparableVersion"
+itemsù
+ö
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.java˜  ˜('E
+%1?org.apache.maven.artifact.versioning.ComparableVersion$ListItem"__id*H*F
+;
+o6org.apache.maven.artifact.versioning.ComparableVersion"
+items˘ˆ
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.java˜ ˜()	
+%2int"âorg.apache.maven.artifact.versioning.ComparableVersion$ListItem#compareTo(Lorg/apache/maven/artifact/versioning/ComparableVersion$Item;)I*G
+E
+%0?org.apache.maven.artifact.versioning.ComparableVersion$ListItem*G
+E
+%1?org.apache.maven.artifact.versioning.ComparableVersion$ListItem2HcompareTo(Lorg/apache/maven/artifact/versioning/ComparableVersion$Item;)"ã
+Ä
+tD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\org\apache\maven\artifact\versioning\ComparableVersion.java˜ ˜(*
+"":;
+o6org.apache.maven.artifact.versioning.ComparableVersionB:8
+6org.apache.maven.artifact.versioning.ComparableVersion

@@ -1,0 +1,6 @@
+projectKey=Infosys_OSCHZSOL_Infosys_JDK_Migrator
+serverUrl=http://infysonar
+serverVersion=7.9.1.27448
+dashboardUrl=http://infysonar/dashboard?id=Infosys_OSCHZSOL_Infosys_JDK_Migrator
+ceTaskId=AXTAPGzcpMI3yD2AnIN3
+ceTaskUrl=http://infysonar/api/ce/task?id=AXTAPGzcpMI3yD2AnIN3

@@ -1,0 +1,52 @@
+
+dcom.infy.openjdk.mapper.RemediationParsingJson#compareVersion(Ljava/lang/String;Ljava/lang/String;)Zx
+lD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\com\infy\openjdk\mapper\RemediationParsingJson.java„ „(""1*î
+1x
+lD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\com\infy\openjdk\mapper\RemediationParsingJson.java†@ †(Lóð
+x
+lD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\com\infy\openjdk\mapper\RemediationParsingJson.java†. †(?<
+%06org.apache.maven.artifact.versioning.ComparableVersion"6org.apache.maven.artifact.versioning.ComparableVersion»
+¸
+x
+lD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\com\infy\openjdk\mapper\RemediationParsingJson.java†* †(M
+%1"Rorg.apache.maven.artifact.versioning.ComparableVersion#<init>(Ljava/lang/String;)V*>
+<
+%06org.apache.maven.artifact.versioning.ComparableVersion*"
+ 
+foundVersionjava.lang.StringŒ
+‰
+x
+lD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\com\infy\openjdk\mapper\RemediationParsingJson.java† †(NG
+foundVersion16org.apache.maven.artifact.versioning.ComparableVersion"__id*>
+<
+%06org.apache.maven.artifact.versioning.ComparableVersionóð
+x
+lD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\com\infy\openjdk\mapper\RemediationParsingJson.java‡/ ‡(@<
+%26org.apache.maven.artifact.versioning.ComparableVersion"6org.apache.maven.artifact.versioning.ComparableVersion¼
+¹
+x
+lD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\com\infy\openjdk\mapper\RemediationParsingJson.java‡+ ‡(O
+%3"Rorg.apache.maven.artifact.versioning.ComparableVersion#<init>(Ljava/lang/String;)V*>
+<
+%26org.apache.maven.artifact.versioning.ComparableVersion*#
+!
+neededVersionjava.lang.String
+Š
+x
+lD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\com\infy\openjdk\mapper\RemediationParsingJson.java‡ ‡(PH
+neededVersion16org.apache.maven.artifact.versioning.ComparableVersion"__id*>
+<
+%26org.apache.maven.artifact.versioning.ComparableVersionáÞ
+x
+lD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\com\infy\openjdk\mapper\RemediationParsingJson.java‰ ‰(6	
+%4int"{org.apache.maven.artifact.versioning.ComparableVersion#compareTo(Lorg/apache/maven/artifact/versioning/ComparableVersion;)I*I
+G
+foundVersion16org.apache.maven.artifact.versioning.ComparableVersion*J
+H
+neededVersion16org.apache.maven.artifact.versioning.ComparableVersion2CcompareTo(Lorg/apache/maven/artifact/versioning/ComparableVersion;)"‚
+x
+lD:\Project\WorkBench\WorkSpaceADMCOE\OpenJDKMigrator\src\com\infy\openjdk\mapper\RemediationParsingJson.java‰ ‰(;
+"": 
+foundVersionjava.lang.String:!
+neededVersionjava.lang.StringB20
+.com.infy.openjdk.mapper.RemediationParsingJson
