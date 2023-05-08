@@ -14,3 +14,6 @@ Key Benefits:
 1. Infosys JDK Migrator reduces the effort required to identify the breaking changes in the application by 50-60%. 
 2. Solution also reduces the effort for issue resolution by providing appropriate suggestions for incompatible code.
 3. Detailed knowledge of application architecture is not a show stopper.
+
+Contribution Guidelines:
+In order to contribute towards the project as an individual, please sign the CLA document present in the repository and follow the process
