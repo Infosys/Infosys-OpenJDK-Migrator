@@ -11,11 +11,11 @@ Infosys JDK Migrator helps in migrating java applications from Oracle JDK to Ope
 
 • Compiles the migrated application to verify the changes.
 
-• Generates detailed assessment report of the analysis performed, along with the effort estimation report.
+• Generates detailed assessment report of the analysis performed, along with the effort estimation report to perform the required changes manually.
 
-• Generates migration report post changes by solution.
+• Also provides a detailed migration report of the changes done as part of JDK migration.
 
-• Batch migration supported; It will migrate multiple applications in one go.
+• Batch migration is supported to migrate multiple applications in one go.
 
 Key Benefits:
 
