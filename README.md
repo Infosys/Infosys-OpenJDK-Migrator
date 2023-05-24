@@ -1,21 +1,21 @@
 # Infosys-OpenJDK-Migrator
 Infosys JDK Migrator helps in migrating java applications from Oracle JDK to Open JDK by scanning the application source code, identifying the deprecated APIs and unsupported features. It also provides automated remediation and suggestions for the incompatibilities detected. 
 
-• Solution is developed as an Eclipse plugin for better usability.
+• Developed as an Eclipse plugin for better usability.
 
-• Solution is capable of migrating applications from Oracle JDK5, JDK6, JDK7, JDK8, JDK9 and JDK10 to Open JDK8 and JDK11.
+• Migrates applications from Oracle JDK5, JDK6, JDK7, JDK8, JDK9 and JDK10 to Open JDK8 and JDK11.
 
-• It Identifies the current Oracle JDK version of application and parses each line to check for incompatibility.
+• Identifies the current Oracle JDK version of application and parses each line to check for incompatibility.
 
-• Solution is capable of doing automatic code remediation.
+• Performs automatic code remediation.
 
-• Compiles the migrated application to verify the changes.
+• Compiles the migrated application to verify the changes. 
 
 • Generates detailed assessment report of the analysis performed, along with the effort estimation report to perform the required changes manually.
 
-• Also provides a detailed migration report of the changes done as part of JDK migration.
+• Provides detailed migration report of the changes done as part of JDK migration.
 
-• Batch migration is supported to migrate multiple applications in one go.
+• Supports batch migration to migrate multiple applications in one go.
 
 Key Benefits:
 
